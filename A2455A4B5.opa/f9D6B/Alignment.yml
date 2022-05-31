@@ -1,0 +1,26 @@
+segment_sources:
+  I454A754A:
+    type: origin_type
+    relation: translation
+    language: en
+  ID61B771D:
+    type: origin_type
+    relation: translation
+    language: fr
+  I308A6336:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d348081c9ab04ebcb4fa18ca79ce7ce6:
+    I454A754A: abffd982226141aa99ea4858ff211a94
+    ID61B771D: 452d4171a9a04c329c90e3e97c104848
+    I308A6336: 78ef4d811e254da08cead27eb70a4f4e
+  509027a147a7412aa6c7caee827fcf1e:
+    I454A754A: 227d9d5aa4ea46ed91b6a63116fa9124
+    ID61B771D: 32790472ca4e4821b2f027600f80a44f
+    I308A6336: 5c8e11b7042f484c8104e915a89df917
+  a49896e34c0f4fceb0d2fae1ff6fad8a:
+    I454A754A: b44a10c424a24553a858dd908d5721af
+    ID61B771D: 5fe308092bd34119ad7f5952ea0abebb
+    I308A6336: 2f8ad1a4ebe842efbfe62a1a20bb2d6a

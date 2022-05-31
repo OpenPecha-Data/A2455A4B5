@@ -1,0 +1,16 @@
+segment_sources:
+  I454A754A:
+    type: origin_type
+    relation: translation
+    language: en
+  I308A6336:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e64172dc0f58481dbf0c1d256efee04f:
+    I454A754A: 204c196870af48f6b288e674f1cbb901
+    I308A6336: 9b437b571fe5452da96b6234c294fa0b
+  5fbb030ef1b543a0b8daa8a416e517de:
+    I454A754A: c6082d21d6ba4fa5b9e757ce811b2405
+    I308A6336: a9bef3969023426d94bbd70af938f64c
